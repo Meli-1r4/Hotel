@@ -1,2 +1,2 @@
-H2 Header Hotel soluna
+ Hotel soluna
 =============
