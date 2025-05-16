@@ -44,10 +44,10 @@ Este software busca ayudar a Soluna Hotel a gestionar de manera digital y eficie
 El sistema ofrecerá una interfaz de consola clara y validada, exportación de datos, gráficos con matplotlib y un módulo para administración con reportes útiles para la toma de decisiones. Con lo cual se busca facilitar el trabajo del personal del hotel, reducir el margen de error y mejorar la experiencia de atención al cliente.
 
  ---
+ 
+ ## ⚠️ Especificación de Requisitos – Soluna Hotel
 
- # ⚠️Especificación de Requisitos – Soluna Hotel
-
-## Funciones principales
+### Funciones principales
 
 - Registrar nuevos huéspedes.
 - Realizar reservas para fechas específicas.
@@ -59,13 +59,13 @@ El sistema ofrecerá una interfaz de consola clara y validada, exportación de d
 - Exportar datos a CSV.
 - Registrar todos los eventos en un log.
 
-## Cosas que NO hará
+### Cosas que NO hará
 
 - Reservas por internet.
 - Pagos electrónicos o integración con bancos.
 - Gestión de múltiples hoteles.
 
-## Librerías necesarias
+### Librerías necesarias
 
 - `datetime` – manejo de fechas
 - `csv` – manejo de archivos planos
@@ -74,10 +74,13 @@ El sistema ofrecerá una interfaz de consola clara y validada, exportación de d
 - `time` – medición de ejecución
 - `getpass` – entrada segura para contraseñas
 
-## Estructuras de datos sugeridas
+### Estructuras de datos sugeridas
 
 - Diccionarios para manejar huéspedes y reservas
 - Listas para manejar múltiples registros
 - DataFrames (opcional con `pandas`)
 
+---
+
+## ✅ Plan de Proyecto- Soluna Hotel
 
