@@ -97,19 +97,13 @@ El sistema ofrecerá una interfaz de consola clara y validada, exportación de d
 9. Publicación en GitHub
 10. Preparación sustentación
 
-## Cronograma (2 semanas – 50 horas)
-
-| Semana | Actividades principales                                | Horas estimadas |
-|--------|---------------------------------------------------------|-----------------|
-| 1      | Registro, reservas, validaciones, documentación inicial | 25              |
-| 2      | Check-out, reportes, gráficos, pruebas, entrega final   | 25              |
+## Cronograma ( 50 horas)
+![image](https://github.com/user-attachments/assets/5c20d1cd-8e85-4b1b-a7be-8cd15fc52162)
 
 ## Presupuesto
 
 - Valor estimado: 50 horas de práctica académica
 - Simulación: 1 SMLV equivalente por tiempo invertido
-# src/main.py
 
-import sys
 
 
