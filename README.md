@@ -1,4 +1,4 @@
- Hotel Soluna
+Soluna Hotel
 =============
 ## 👥 Integrantes del Equipo
 
@@ -23,9 +23,12 @@ Todos los integrantes pertenecen al programa de **Ingeniería Industrial** de la
 
 ## 🌟 Nombre del Proyecto y Descripción
 
-**Hotel Soluna** — Un sistema de consola amigable, diseñado para ayudar a gestionar la operación de un hotel con habitaciones estándar y suites. El sistema permite registrar huéspedes, gestionar reservas, realizar check-outs, emitir facturas y generar reportes administrativos y gráficos.
+**Soluna Hotel** — Un sistema de consola amigable, diseñado para ayudar a gestionar la operación de un hotel con habitaciones estándar y suites. El sistema permite registrar huéspedes, gestionar reservas, realizar check-outs, emitir facturas y generar reportes administrativos y gráficos.
 
 ![image](https://github.com/user-attachments/assets/e25c471b-bf48-4ae6-b0ad-d51aef687aad)
+
 📷 *Imagen representativa: Sol y luna juntándose en un entorno de descanso y armonía.* *(Se incluirá en el repositorio como `logo.png`)*
 
+---
 
+## 🔐 Licencia del Software
