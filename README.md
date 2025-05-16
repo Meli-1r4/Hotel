@@ -33,7 +33,7 @@ Todos los integrantes pertenecen al programa de **Ingeniería Industrial** de la
 
 ## 🔐 Licencia del Software
 
-
+<a href="https://github.com/Meli-1r4/Hotel/blob/main/README.md#soluna-hotel"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hotel Soluna</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> © 2025 por </font></font><a href="https://creativecommons.org"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">vjm</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> con licencia </font></font><a href="https://creativecommons.org/licenses/by-nd/4.0/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CC BY-ND 4.0</font></font></a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
  ---
 
