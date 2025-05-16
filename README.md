@@ -3,7 +3,7 @@ Soluna Hotel
 ## 👥 Integrantes del Equipo
 
 - **Melissa** – Encargada de la documentación.
-- **Josué** – Encargado del código fuente.
+- **Juan Josué** – Encargado del código fuente.
 - **Valentina** – Encargada de pruebas y validaciones.
 
 ---
@@ -14,7 +14,7 @@ Todos los integrantes pertenecen al programa de **Ingeniería Industrial** de la
 
 -**Valentina Amaya**- Soy estudiante de Ingeniería Industrial, de manera tecnológica me desenvuelvo fácilmente, no lo sé todo, pero sé utilizar las herramientas que se me proporcionan para obtener buenos resultados.
 
--**Josue**- 
+-**Juan Josue Valdes**- Soy esrtudiante de Ingenieria Industrial, el encargado de escribir el codigo principal del sistema. Me gusta trabajar en equipo, revisar las tareas que se esten realizando para ver si todo funciona correctamente. 
 
 -**Melissa Rodriguez**-Soy estudiante de Ingeniería industrial. Al proyecto puedo aportar organización, lazos de comunicación, aprendo fácilmente y me desenvuelvo bien a la hora de crear archivos y redactar. Me gusta trabajar en equipo y mantengo una buena disposición  
 
@@ -83,4 +83,33 @@ El sistema ofrecerá una interfaz de consola clara y validada, exportación de d
 ---
 
 ## ✅ Plan de Proyecto- Soluna Hotel
+
+## Actividades clave
+
+1. Diseño de estructura y carpetas del proyecto
+2. Validaciones de entrada y lógica básica
+3. Registro de huéspedes
+4. Sistema de reservas
+5. Módulo de check-out y facturación
+6. Reportes administrativos
+7. Gráficos con matplotlib
+8. Documentación y pruebas
+9. Publicación en GitHub
+10. Preparación sustentación
+
+## Cronograma (2 semanas – 50 horas)
+
+| Semana | Actividades principales                                | Horas estimadas |
+|--------|---------------------------------------------------------|-----------------|
+| 1      | Registro, reservas, validaciones, documentación inicial | 25              |
+| 2      | Check-out, reportes, gráficos, pruebas, entrega final   | 25              |
+
+## Presupuesto
+
+- Valor estimado: 50 horas de práctica académica
+- Simulación: 1 SMLV equivalente por tiempo invertido
+# src/main.py
+
+import sys
+
 
